@@ -94,20 +94,20 @@ OPERATIONS = {
 # ─────────────────────────────────────────────────────────────
 
 C = {
-    "bg":        "#0f1117",
-    "panel":     "#1a1d27",
-    "sidebar":   "#13151f",
-    "card":      "#1e2132",
-    "accent":    "#4f8ef7",
-    "accent2":   "#7c5cbf",
-    "success":   "#3ecf8e",
-    "warning":   "#f59e0b",
-    "danger":    "#ef4444",
-    "text":      "#e8eaf0",
-    "subtext":   "#7b8099",
-    "border":    "#2a2d3e",
-    "hover":     "#252840",
-    "slider_bg": "#2a2d3e",
+    "bg":        "#110d12",
+    "panel":     "#1b1520",
+    "sidebar":   "#0f0c13",
+    "card":      "#201829",
+    "accent":    "#f472b6",
+    "accent2":   "#a855f7",
+    "success":   "#34d399",
+    "warning":   "#fbbf24",
+    "danger":    "#fb7185",
+    "text":      "#ede8f5",
+    "subtext":   "#a09ab0",
+    "border":    "#2e2438",
+    "hover":     "#271e30",
+    "slider_bg": "#3b2f4a",
 }
 
 
